@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/uipath_stefano_giuliani/defaulttenant/testmanager_",
+  "defaultProject": {
+    "id": "d6eb6629-9248-0000-c545-0b47727d1662",
+    "name": "HelloUiPathTest",
+    "key": "UPT"
+  }
 }
